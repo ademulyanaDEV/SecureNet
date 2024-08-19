@@ -1,0 +1,10 @@
+{
+    "rules": [
+      {
+        "name": "Basic Port Scan Detection",
+        "description": "Detects potential port scans by monitoring unusual network activity.",
+        "pattern": "multiple_connections_to_different_ports"
+      }
+    ]
+  }
+  
